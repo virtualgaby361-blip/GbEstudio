@@ -1,0 +1,17 @@
+{
+  "descripcion": "Iconos para los botones de Pre-escucha y envío al vivo. Tamaño: 24x24 o 32x32",
+  "iconos": [
+    {
+      "archivo": "pre_a.png",
+      "uso": "Icono para Pre-escucha A"
+    },
+    {
+      "archivo": "pre_b.png",
+      "uso": "Icono para Pre-escucha B"
+    },
+    {
+      "archivo": "enviar_vivo.png",
+      "uso": "Icono para enviar al vivo (botón ENVIAR AL VIVO)"
+    }
+  ]
+}

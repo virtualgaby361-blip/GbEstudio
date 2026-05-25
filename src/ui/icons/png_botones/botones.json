@@ -1,0 +1,125 @@
+{
+  "descripcion": "Iconos PNG para botones de GBSturio. Tamaño recomendado: 32x32 px o 48x48 px",
+  "botones": [
+    {
+      "archivo": "play.png",
+      "uso": "Reproducir audio/video en cada canal (Pre A, Pre B, Master)",
+      "ubicacion": "Pestaña Audio - controles de transporte"
+    },
+    {
+      "archivo": "pause.png",
+      "uso": "Pausar audio/video en cada canal",
+      "ubicacion": "Pestaña Audio - controles de transporte"
+    },
+    {
+      "archivo": "stop.png",
+      "uso": "Detener audio/video en cada canal",
+      "ubicacion": "Pestaña Audio - controles de transporte"
+    },
+    {
+      "archivo": "mute.png",
+      "uso": "Mutear/desmutear canal de audio (Pre A, Pre B, Master)",
+      "ubicacion": "Pestaña Audio - al lado del slider de volumen"
+    },
+    {
+      "archivo": "live.png",
+      "uso": "Enviar canal al vivo/master",
+      "ubicacion": "Pestaña Audio - al lado del slider de volumen"
+    },
+    {
+      "archivo": "agregar.png",
+      "uso": "Agregar archivos a la playlist",
+      "ubicacion": "Pestaña Playlist - barra superior"
+    },
+    {
+      "archivo": "eliminar.png",
+      "uso": "Quitar archivo de la playlist",
+      "ubicacion": "Pestaña Playlist - barra superior"
+    },
+    {
+      "archivo": "reproducir.png",
+      "uso": "Lanzar la playlist al vivo",
+      "ubicacion": "Pestaña Playlist - barra superior"
+    },
+    {
+      "archivo": "guardar.png",
+      "uso": "Guardar lista como archivo .gbs",
+      "ubicacion": "Pestaña Playlist - barra superior"
+    },
+    {
+      "archivo": "cargar.png",
+      "uso": "Cargar lista desde archivo .gbs",
+      "ubicacion": "Pestaña Playlist - barra superior"
+    },
+    {
+      "archivo": "buscar.png",
+      "uso": "Buscar versículo bíblico",
+      "ubicacion": "Panel izquierdo - sección Biblia"
+    },
+    {
+      "archivo": "enviar_pre.png",
+      "uso": "Enviar contenido a la pre-escucha",
+      "ubicacion": "Panel izquierdo - Biblia / Zócalo"
+    },
+    {
+      "archivo": "enviar_vivo.png",
+      "uso": "Enviar contenido al vivo",
+      "ubicacion": "Panel izquierdo - Biblia / Zócalo"
+    },
+    {
+      "archivo": "pip_a.png",
+      "uso": "Activar PiP en Pre A",
+      "ubicacion": "Panel izquierdo - sección PiP"
+    },
+    {
+      "archivo": "pip_b.png",
+      "uso": "Activar PiP en Pre B",
+      "ubicacion": "Panel izquierdo - sección PiP"
+    },
+    {
+      "archivo": "pip_vivo.png",
+      "uso": "Activar PiP en el vivo",
+      "ubicacion": "Panel izquierdo - sección PiP"
+    },
+    {
+      "archivo": "camara.png",
+      "uso": "Iniciar cámara",
+      "ubicacion": "Panel izquierdo - Fuentes de Video"
+    },
+    {
+      "archivo": "camara_vivo.png",
+      "uso": "Enviar cámara directo al vivo",
+      "ubicacion": "Panel izquierdo - Fuentes de Video"
+    },
+    {
+      "archivo": "pantalla.png",
+      "uso": "Capturar pantalla",
+      "ubicacion": "Panel izquierdo - Captura de pantalla"
+    },
+    {
+      "archivo": "detectar.png",
+      "uso": "Detectar cámaras disponibles",
+      "ubicacion": "Panel izquierdo - Fuentes de Video"
+    },
+    {
+      "archivo": "mezclar.png",
+      "uso": "Mezclar al vivo con transición",
+      "ubicacion": "Pestaña Transiciones - botón rojo grande"
+    },
+    {
+      "archivo": "tema_oscuro.png",
+      "uso": "Cambiar a tema oscuro",
+      "ubicacion": "Barra superior derecha"
+    },
+    {
+      "archivo": "tema_claro.png",
+      "uso": "Cambiar a tema claro",
+      "ubicacion": "Barra superior derecha"
+    },
+    {
+      "archivo": "carpeta.png",
+      "uso": "Elegir carpeta del explorador",
+      "ubicacion": "Panel izquierdo - Explorador de archivos"
+    }
+  ]
+}

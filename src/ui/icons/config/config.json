@@ -1,0 +1,9 @@
+{
+  "descripcion": "Icono de configuración para la pantalla de salida del vivo. Tamaño: 24x24 o 32x32",
+  "iconos": [
+    {
+      "archivo": "config.png",
+      "uso": "Botón de configuración de pantalla de salida del vivo (engranaje rojo)"
+    }
+  ]
+}

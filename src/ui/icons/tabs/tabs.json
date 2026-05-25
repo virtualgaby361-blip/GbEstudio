@@ -1,0 +1,21 @@
+{
+  "descripcion": "Iconos PNG para las pestañas del panel central. Tamaño recomendado: 24x24 o 32x32 px",
+  "tabs": [
+    {
+      "archivo": "zocalo.png",
+      "uso": "Pestaña Zócalo - texto overlay sobre video"
+    },
+    {
+      "archivo": "transiciones.png",
+      "uso": "Pestaña Transiciones - efectos de mezcla al vivo"
+    },
+    {
+      "archivo": "audio.png",
+      "uso": "Pestaña Audio - mezclador de canales"
+    },
+    {
+      "archivo": "playlist.png",
+      "uso": "Pestaña Playlist - lista de reproducción"
+    }
+  ]
+}

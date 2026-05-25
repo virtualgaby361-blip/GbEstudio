@@ -1,0 +1,21 @@
+{
+  "descripcion": "Iconos para el panel derecho (Vivo, Chat, Streaming). Tamaño: 24x24 o 32x32",
+  "iconos": [
+    {
+      "archivo": "desprender.png",
+      "uso": "Botón Desprender ventana del vivo"
+    },
+    {
+      "archivo": "cerrar_pantalla.png",
+      "uso": "Botón Cerrar pantalla de salida"
+    },
+    {
+      "archivo": "streaming_on.png",
+      "uso": "Botón Iniciar Streaming (estado activo)"
+    },
+    {
+      "archivo": "streaming_off.png",
+      "uso": "Botón Detener Streaming (estado inactivo/listo)"
+    }
+  ]
+}

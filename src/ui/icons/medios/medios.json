@@ -1,0 +1,29 @@
+{
+  "descripcion": "Iconos para las tabs de medios y los items de lista. Tamaño: 24x24 o 32x32",
+  "iconos": [
+    {
+      "archivo": "tab_imagenes.png",
+      "uso": "Icono de la pestaña Imágenes"
+    },
+    {
+      "archivo": "tab_audio.png",
+      "uso": "Icono de la pestaña Audio"
+    },
+    {
+      "archivo": "tab_videos.png",
+      "uso": "Icono de la pestaña Videos"
+    },
+    {
+      "archivo": "item_imagen.png",
+      "uso": "Icono para cada archivo de imagen en la lista"
+    },
+    {
+      "archivo": "item_audio.png",
+      "uso": "Icono para cada archivo de audio en la lista"
+    },
+    {
+      "archivo": "item_video.png",
+      "uso": "Icono para cada archivo de video en la lista"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "descripcion": "Iconos para los botones del mixer de audio (Pre A, Pre B, Master). Tamaño: 32x32",
+  "iconos": [
+    {
+      "archivo": "mute_on.png",
+      "uso": "Botón Mute activado (canal muteado) - color rojo"
+    },
+    {
+      "archivo": "mute_off.png",
+      "uso": "Botón Mute desactivado (canal sonando) - color verde"
+    },
+    {
+      "archivo": "send_live.png",
+      "uso": "Botón enviar canal al vivo/master"
+    }
+  ]
+}
